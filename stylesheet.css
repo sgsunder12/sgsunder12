@@ -1,0 +1,26 @@
+h2 {
+    color: blue;
+}
+
+.class1 {
+    color: darkorange;
+    font-weight: bold;
+}
+
+#top-heading {
+
+    font-size: 60;
+    color: magenta
+
+}
+
+a:hover {
+    color: maroon;
+}
+
+.box {
+    width: 200px;    
+    padding: 20px;
+    
+}
+
